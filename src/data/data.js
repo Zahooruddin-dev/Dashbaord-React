@@ -17,7 +17,7 @@ export const navigationLinks = [
 export const transactions = [
     {
         id: 11, 
-        name: "Sarah Parker",
+        name: "Ijustine Parker",
         image: personsImgs.person_four,
         date: "23/12/04",
         amount: 22000
